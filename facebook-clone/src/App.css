@@ -37,3 +37,11 @@
   }
 }
 
+.activity {
+  width:500px;
+  margin:50px ;
+  position: absolute;
+
+  left: 77%;
+  top: 14px;
+      }

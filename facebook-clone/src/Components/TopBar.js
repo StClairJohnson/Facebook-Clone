@@ -130,7 +130,7 @@ export default function PrimarySearchAppBar() {
 
   return (
     <ThemeProvider theme={theme}>
-    <Box sx={{ display: 'flex', alignItems: 'center', width: 1280 }} >
+    <Box sx={{ display: 'flex', alignItems: 'center', width: 1260 }} >
       <AppBar position="static" style={{backgroundColor: '#1a237e'}}>
         <Toolbar>
           <Typography
